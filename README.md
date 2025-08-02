@@ -1,5 +1,5 @@
 # ecommerce-analysis
-An e-commerce analysis conducted with Helium 10 through Amazon for the keyword "Kids Pools For Backyard"
+An e-commerce analysis conducted through Amazon with Helium 10, Python, and Looker for the keyword "Kids Pools For Backyard"
 
 ## Google Colab notebooks
 - "Kids Pools For Backyard" Sales Data Analysis: https://colab.research.google.com/drive/1ImxsCxp9p8A4-UO59ooA2ofzscjYCv4K?usp=sharing
